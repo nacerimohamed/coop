@@ -14,8 +14,6 @@ Site one-page pour une coopérative bio à Ouarzazate (Amlou, Huile d'Argan, Hui
 ## 🛠️ Stack
 HTML5 + CSS3 + JavaScript vanilla. Aucune dépendance, aucun build.
 
-## 📁 Structure
-
 ## 🚀 Utilisation
 Ouvrir `index.html` dans un navigateur. C'est tout.
 
