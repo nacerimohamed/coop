@@ -2,7 +2,7 @@
 
 Site one-page pour une coopérative bio à Ouarzazate (Amlou, Huile d'Argan, Huile d'Olive). Commande via WhatsApp.
 
-## ✨ Fonctionnalités
+##  Fonctionnalités
 - 100% responsive (mobile, tablette, desktop)
 - Multilingue : FR / AR / EN (avec RTL)
 - Mode sombre / clair
@@ -11,10 +11,10 @@ Site one-page pour une coopérative bio à Ouarzazate (Amlou, Huile d'Argan, Hui
 - Bouton WhatsApp flottant
 - Carte Google Maps intégrée
 
-## 🛠️ Stack
+##  Stack
 HTML5 + CSS3 + JavaScript vanilla. Aucune dépendance, aucun build.
 
-## 🚀 Utilisation
+##  Utilisation
 Ouvrir `index.html` dans un navigateur. C'est tout.
 
 ## ⚙️ Personnalisation
@@ -25,8 +25,6 @@ Ouvrir `index.html` dans un navigateur. C'est tout.
 - **Traductions** : objet `translations` dans le `<script>`
 - **Images** : remplacer les URLs Unsplash
 
-## 📱 Breakpoints
-`1024px` · `980px` · `860px` · `480px` · `360px` · paysage mobile
 
 ## 🌐 Langues
 FR (défaut) · AR (RTL) · EN — sauvegardé dans `localStorage`.
@@ -34,5 +32,4 @@ FR (défaut) · AR (RTL) · EN — sauvegardé dans `localStorage`.
 ## 🌙 Dark Mode
 Bouton lune/soleil · détection système · sauvegarde `localStorage`.
 
-## 📄 Licence
-Libre d'utilisation. Images Unsplash · Polices Google Fonts.
+
